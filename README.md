@@ -2,7 +2,7 @@
 
 In this application I have used Flutter for mobile app development and Node.js (Nest js) as server side back-end api development.
 
-## Some Screenshots of this application's journey are shared here except for the code part due to company policy. This application is still under continuous development phase. This has been published in the play store as well. Link is given in below-
+## Some Screenshots of this application's journey are shared here except for the code part due to company policy. This application is still under continuous development phase. This has been published in the play store as well.
 
 #### On Board screen one
 ![On Board screen one](./images/1.jpg)
