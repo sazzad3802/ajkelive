@@ -40,8 +40,8 @@ In this application I have used Flutter for mobile app development and Node.js (
 #### Live star Detail page
 ![Live star Detail page](./images/12.jpg)
 
-#### Live videos Live star page
-![Live videos Live star page](./images/13.jpg)
+#### Live videos of this Live star
+![Live videos of this Live star](./images/13.jpg)
 
 #### Live video streaming screen
 ![Live video streaming screen](./images/14.jpg)
@@ -52,8 +52,8 @@ In this application I have used Flutter for mobile app development and Node.js (
 #### Related products in live streaming
 ![Related products in live streaming](./images/17.jpg)
 
-#### Overlay video while surfing other pages without exiting
-![Overlay video while surfing other pages without exiting](./images/18.jpg)
+#### Overlay video while surfing other pages without exiting the video
+![Overlay video while surfing other pages without exiting the video](./images/18.jpg)
 
 #### Search screen
 ![Search screen](./images/19.jpg)
