@@ -34,8 +34,8 @@ In this application I have used Flutter for mobile app development and Node.js (
 #### Store Screen
 ![Store Screen](./images/10.jpg)
 
-#### Store detail page
-![Store detail page](./images/11.jpg)
+#### Store category detail page
+![Store category detail page](./images/11.jpg)
 
 #### Live star Detail page
 ![Live star Detail page](./images/12.jpg)
